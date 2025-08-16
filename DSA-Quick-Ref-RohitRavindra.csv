@@ -1,0 +1,2 @@
+Pattern/Topic,Problem Name,Brief Solution/Idea,Logic File Path
+arrays-and-hashing,Contains Duplicate,Use a HashSet to check for duplicates,arrays-and-hashing/contains-duplicate/solutionLogic.md

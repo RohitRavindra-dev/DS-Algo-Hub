@@ -1,0 +1,2 @@
+Pattern/Topic,Problem Name,Brief Solution/Idea
+arrays-and-hashing,Contains Duplicate,Use a HashSet to check for duplicates

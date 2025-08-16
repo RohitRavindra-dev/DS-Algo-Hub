@@ -10,7 +10,7 @@ Welcome to your personal Data Structures & Algorithms (DSA) toolbox! This reposi
       - `problem-statement.md` – The problem description
       - `solution.py` – Python solution (runnable)
       - `Solution.java` – Java solution (runnable)
-      - `solutionLogic.txt` – Core idea, approaches, and pseudocode
+      - `solutionLogic.md` – Core idea, approaches, and pseudocode
 
 ## 🚀 Usage
 
@@ -33,7 +33,7 @@ Welcome to your personal Data Structures & Algorithms (DSA) toolbox! This reposi
 ## 🧹 Housekeeping
 
 - `.class` files and other build artifacts are ignored via `.gitignore`.
-- Keep `solutionLogic.txt` concise and clear for future reference.
+- Keep `solutionLogic.md` concise and clear for future reference.
 
 ---
 
