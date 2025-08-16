@@ -1,0 +1,19 @@
+The solution is to keep a set/hashset.
+Iterate thru the array and add values to the set.
+If we see a value which is already in the set, then we are seeing a duplicate, so return True
+If we complete iteration without triggering the duplicate if check then we are safe to assume no duplicates, return False.
+
+
+Time Complexity: O(n) 
+    since we see each element once
+
+Space Complexity: O(n)
+    Since we are maintaining an additional set.
+
+
+
+Alternative Approaches:
+1. Sort the array and check consequitve values for duplicates. 
+    Time Complexity: O(nlogn), Space Complexity: O(n) or O(1) (since no additonal space)
+2. 2 pointers, double for loop. Check if the pointers ever point to same value.
+    Time Complexity: O(n^2), Space Complexity: O(n) if we consider the array itself or O(1) (since no additonal space)
