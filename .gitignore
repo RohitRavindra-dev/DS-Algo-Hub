@@ -1,0 +1,9 @@
+# Ignore all Java class files
+*.class
+
+# Ignore Python cache
+__pycache__/
+*.pyc
+
+# Ignore VSCode settings
+.vscode/
